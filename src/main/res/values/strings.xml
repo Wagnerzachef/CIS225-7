@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ATM app</string>
+    <string name="username">Enter Your Username:</string>
+    <string name="password">Enter Your Password:</string>
+    <string name="signin">Sign In</string>
+    <string name="avalible">Available Balance:</string>
+    <string name="checking">Checking Account:</string>
+    <string name="savings">Savings Account:</string>
+    <string name="dollar">$</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="deposit">Deposit</string>
+    <string name="transfer">Transfer</string>
+    <string name="money">Available Balance</string>
+    <string name="depositmoney">Deposit money to:</string>
+    <string name="save">Savings</string>
+    <string name="check">Checking</string>
+    <string name="amount">Amount</string>
+    <string name="confirm">Confirm</string>
+    <string name="withdrawmoney">Withdraw money from:</string>
+    <string name="transferto">To:</string>
+    <string name="transferfrom">Transfer from:</string>
+</resources>
